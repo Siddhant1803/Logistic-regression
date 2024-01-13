@@ -1,14 +1,18 @@
 # Logistic-regression
 ### 1. Project Background
-Nowadays, marketing spending in the banking industry is massive, meaning that it is essential for banks to optimize marketing strategies and improve effectiveness. Understanding customers’ need leads to more effective marketing plans, smarter product designs and greater customer satisfaction.
+   Nowadays, marketing spending in the banking industry is massive, meaning that it is essential for banks to optimize marketing strategies and improve effectiveness. Understanding customers’ need leads to more 
+   effective marketing plans, smarter product designs and greater customer satisfaction.
 
-Main Objective: increase the effectiveness of the bank's telemarketing campaign This project will enable the bank to develop a more granular understanding of its customer base, predict customers' response to its telemarketing campaign and establish a target customer profile for future marketing plans.
+   Main Objective: increase the effectiveness of the bank's telemarketing campaign This project will enable the bank to develop a more granular understanding of its customer base, predict customers' response to 
+   its telemarketing campaign and establish a target customer profile for future marketing plans.
 
-By analyzing customer features, such as demographics and transaction history, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term deposits. The bank can then focus its marketing efforts on those customers. This will not only allow the bank to secure deposits more effectively but also increase customer satisfaction by reducing undesirable advertisements for certain customers.
+   By analyzing customer features, such as demographics and transaction history, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term 
+   deposits. The bank can then focus its marketing efforts on those customers. This will not only allow the bank to secure deposits more effectively but also increase customer satisfaction by reducing 
+   undesirable advertisements for certain customers.
 
 ### Attribute information For bank dataset
    Input variables:
-   # bank client data:
+   bank client data:
    1 - age (numeric)
    2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
                                        "blue-collar","self-employed","retired","technician","services") 
