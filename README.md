@@ -1,5 +1,5 @@
 # Logistic-regression
-###1. Project Background
+### 1. Project Background
 Nowadays, marketing spending in the banking industry is massive, meaning that it is essential for banks to optimize marketing strategies and improve effectiveness. Understanding customers’ need leads to more effective marketing plans, smarter product designs and greater customer satisfaction.
 
 Main Objective: increase the effectiveness of the bank's telemarketing campaign This project will enable the bank to develop a more granular understanding of its customer base, predict customers' response to its telemarketing campaign and establish a target customer profile for future marketing plans.
